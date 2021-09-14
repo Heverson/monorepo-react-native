@@ -1,0 +1,16 @@
+{
+  "name": "monorepoBWBS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages":[
+      "packages/*"
+    ]
+  },
+  "nohoist": [],
+  "repository": "git@github.com:Heverson/monorepo-react-native.git",
+  "author": "Heverson <heversondamasceno@gmail.com>",
+  "license": "MIT"
+}
+
