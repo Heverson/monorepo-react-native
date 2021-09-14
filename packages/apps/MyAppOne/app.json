@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MyAppOne",
+    "slug": "MyAppOne",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MyAppOne"
+}
