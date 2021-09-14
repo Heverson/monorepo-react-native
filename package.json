@@ -1,10 +1,11 @@
 {
-  "name": "monorepoBWBS",
+  "name": "monorepo",
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
   "scripts": {
-    "app:myapptwo": "yarn workspace @monorepoBWBS/MyAppTwo expo start --tunnel"
+    "app:myappone": "yarn workspace @monorepo/MyAppOne expo start --tunnel",
+    "app:myapptwo": "yarn workspace @monorepo/MyAppTwo expo start --tunnel"
   },
   "workspaces": {
     "packages":[

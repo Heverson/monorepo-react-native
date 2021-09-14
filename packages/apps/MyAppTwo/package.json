@@ -1,5 +1,5 @@
 {
-  "name": "@monorepoBWBS/MyAppTwo",
+  "name": "@monorepo/MyAppTwo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "react-native-screens": "~3.4.0",
     "react-native-unimodules": "~0.14.5",
     "react-native-web": "~0.13.12",
-    "@monorepoBWBS/components": "*"
+    "@monorepo/components": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",

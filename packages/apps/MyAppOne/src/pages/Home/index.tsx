@@ -10,7 +10,7 @@ import {
 export function Home(){
   return (
     <Container>
-        <Title>MyAppTwo</Title>
+        <Title>MyAppOne</Title>
         <SubTitle>monorepo-react-native</SubTitle>
         <InputText placeholder="Type here" />
         <Button text="Click me" />
