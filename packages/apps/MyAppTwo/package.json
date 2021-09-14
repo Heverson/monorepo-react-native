@@ -1,7 +1,7 @@
 {
   "name": "@monorepoBWBS/MyAppTwo",
   "version": "1.0.0",
-  "main": "__generated__/AppEntry.js",
+  "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
