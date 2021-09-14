@@ -1,12 +1,13 @@
 {
   "name": "@monorepoBWBS/MyAppTwo",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "__generated__/AppEntry.js",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "web": "expo start --web",
-    "start": "react-native start"
+    "start": "react-native start",
+    "postinstall": "expo-yarn-workspaces postinstall"
   },
   "dependencies": {
     "expo": "~42.0.1",
@@ -27,6 +28,7 @@
     "@babel/core": "^7.9.0",
     "@types/react": "~16.9.35",
     "@types/react-native": "~0.63.2",
-    "typescript": "~4.0.0"
+    "typescript": "~4.0.0",
+    "expo-yarn-workspaces": "^1.5.2"
   }
 }

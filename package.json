@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
+  "scripts": {
+    "app:myapptwo": "yarn workspace @monorepoBWBS/MyAppTwo expo start --tunnel"
+  },
   "workspaces": {
     "packages":[
-      "packages/*"
+      "packages/apps/*",
+      "packages/shared/*"
     ]
   },
   "nohoist": [],
