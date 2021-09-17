@@ -11,7 +11,7 @@ Maybe you need to reuse react native components or useful functions, sharing the
 
 <h2>Example</h2>
 
-<p>Create two apps <strong><a href="https://docs.expo.dev/bare/exploring-bare-workflow/">Expo Bare Workflow</a></strong> with typescript</p>
+<p>This example, i create two apps <strong><a href="https://docs.expo.dev/bare/exploring-bare-workflow/">Expo Bare Workflow</a></strong> with typescript</p>
 
 <p>I create folder shared, with subfolders for components and functions shared between apps.</p>
 <p>This components folder, add two components (InputText) and (Button).<strong> <a href="https://classic.yarnpkg.com/en/docs/workspaces/">Yarn Workspace</a></strong> this possible integrate this components in MyAppOne and MyAppTwo</p> 
