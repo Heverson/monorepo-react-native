@@ -1,4 +1,4 @@
-<h1 align="center">SIMPLE MONOREPO REACT NATIVE</h1>
+<h1 align="center">SIMPLE MONOREPO REACT NATIVE 📱</h1>
 
 <p align="center">
 This project is a <strong>(PoC) Proof of Concept</strong>, Monorepo for Apps Reat Native. 
@@ -11,7 +11,7 @@ Maybe you need to reuse react native components or useful functions, sharing the
 
 <h2>Example</h2>
 
-<p>This example, i create two apps <strong><a href="https://docs.expo.dev/bare/exploring-bare-workflow/">Expo Bare Workflow</a></strong> with typescript</p>
+<p>This example create two apps <strong><a href="https://docs.expo.dev/bare/exploring-bare-workflow/">Expo Bare Workflow</a></strong> with typescript</p>
 
 <p>I create shared folder, with subfolders for components and functions shared between apps.</p>
 <p>This components folder, add two components (InputText) and (Button).<strong> <a href="https://classic.yarnpkg.com/en/docs/workspaces/">Yarn Workspace</a></strong> this possible integrate this components in MyAppOne and MyAppTwo</p> 
@@ -25,3 +25,8 @@ Maybe you need to reuse react native components or useful functions, sharing the
     </td>
   </tr>
 </table>
+
+<h2>It's possible 🤩</h2>
+<p>Create tests, Storybook and more ...</p>
+<p>Monorepo is something that makes sense in apps React Native for you?</p>
+<p>So, I invite you to contribute to this project. 👌</>
