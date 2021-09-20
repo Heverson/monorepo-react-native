@@ -15,4 +15,13 @@ Maybe you need to reuse react native components or useful functions, sharing the
 
 <p>I create shared folder, with subfolders for components and functions shared between apps.</p>
 <p>This components folder, add two components (InputText) and (Button).<strong> <a href="https://classic.yarnpkg.com/en/docs/workspaces/">Yarn Workspace</a></strong> this possible integrate this components in MyAppOne and MyAppTwo</p> 
-
+<table align="center">
+  <tr>
+    <td>
+    <img src="https://user-images.githubusercontent.com/729786/134035465-a29ef01b-6300-4b4c-8391-b23a965e0e25.png" alt="App One" />
+    </td>
+    <td>
+    <img src="https://user-images.githubusercontent.com/729786/134035681-5752e888-557d-40ff-912c-100669296aa5.png" alt="App Two" />
+    </td>
+  </tr>
+</table>
